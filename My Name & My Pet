@@ -1,0 +1,12 @@
+<html>
+	<body>
+		<p id="demo"></p>
+		<script>
+			let myName = "Jack";
+			let myPet = "Dog";
+			let sentence = "My Name is "+myName+". I have a "+myPet+".";
+			document.getElementById("demo").innerHTML =
+			sentence;
+		</script>
+	</body
+</html>
